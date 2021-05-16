@@ -1040,3 +1040,19 @@ h4 {
         text-align: center;
     }
 }
+
+
+
+.row{
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.bloc1{
+    text-align: -webkit-center;
+}
+
+.textbloc1{
+    font-size: 23px;
+    width: 50%;
+}
