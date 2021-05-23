@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #ffffff!important;
+    color: #000000!important;
     font-size: 30px;
 }
 
@@ -1073,3 +1073,4 @@ h4 {
 .coordonnees{
     padding-left: 10%;
 }
+
