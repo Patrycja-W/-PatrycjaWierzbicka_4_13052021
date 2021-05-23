@@ -1051,7 +1051,10 @@ h4 {
 
 .bloc1{
     text-align: -webkit-center;
-    color: #ffa500
+    color: black;
+    background-color: antiquewhite;
+    border-radius: 25%;
+}
 }
 
 .textbloc1{
@@ -1061,6 +1064,4 @@ h4 {
 
 .col-sm-12{
     color: black;
-    background-color: antiquewhite;
-    border-radius: 25%;
 }
