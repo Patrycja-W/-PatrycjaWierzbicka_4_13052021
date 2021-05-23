@@ -906,6 +906,8 @@ h4 {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+        margin-left: 20px;
+        margin-right: 20px;
     }
     .b-parallax {
         background-attachment: scroll;
@@ -1066,4 +1068,8 @@ h4 {
 .col-sm-12{
     color: black;
     font-size: 30px;
+}
+
+.coordonnees{
+    padding-left: 10%;
 }
